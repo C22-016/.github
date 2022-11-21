@@ -67,7 +67,7 @@ Penjadwalan pembangunan proyek ini disajikan dalam bentuk Gantt Chart .
 
 ## Project Resources:
 
-### - Stack Technologies:
+### [1] Stack Technologies:
 
 - Programming language: JavaScript
 - Framework: Hapi
@@ -75,7 +75,7 @@ Penjadwalan pembangunan proyek ini disajikan dalam bentuk Gantt Chart .
 - Deployment Environment: Vercel
 - Repository: Github
 
-### - Academic Journals:
+### [2] Academic Journals:
 
 - [1] Suparmoko, M. (2020). KONSEP PEMBANGUNAN BERKELANJUTAN DALAM PERENCANAAN
 PEMBANGUNAN NASIONAL DAN REGIONAL, 9(1), 39-50.
