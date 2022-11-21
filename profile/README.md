@@ -2,7 +2,7 @@
 
 ## Team ID: C22-016
 
-## Nama Anggota:
+## Our Team Members:
 
 1. F478X0998 - Lukman Nur Hakim
 2. F330X0886 - Muhammad Rayhan Rohadi
