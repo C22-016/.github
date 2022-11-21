@@ -5,7 +5,7 @@
 ## Our Team Members:
 
 1. F478X0998 - [Lukman Nur Hakim](https://www.linkedin.com/in/lukman-nur-hakim)
-2. F330X0886 - Muhammad Rayhan Rohadi
+2. F330X0886 - [Muhammad Rayhan Rohadi](https://www.linkedin.com/in/mrayhanr4869/)
 3. F488X1011 - M. Khoirul Husen
 4. F367X0930 - Ade Iskandar Zulkarnaen
 
