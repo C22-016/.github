@@ -6,7 +6,7 @@
 
 1. F478X0998 - [Lukman Nur Hakim](https://www.linkedin.com/in/lukman-nur-hakim)
 2. F330X0886 - [Muhammad Rayhan Rohadi](https://www.linkedin.com/in/mrayhanr4869/)
-3. F488X1011 - M. Khoirul Husen
+3. F488X1011 - [M. Khoirul Husen](https://www.linkedin.com/in/hoirulhusen08/)
 4. F367X0930 - Ade Iskandar Zulkarnaen
 
 ## Tema yang dipilih: Solusi Pengelolaan Kehidupan yang Berkelanjutan
