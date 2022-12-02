@@ -1,6 +1,6 @@
 # HIS (Hamlet Information System)
 <p align="center">
-  <img src="./assets/HIS-logo.png" width="200">
+  <img src="../assets/HIS-logo.png" width="200">
 </p>
 
 ## Team ID: C22-016
