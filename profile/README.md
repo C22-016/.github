@@ -73,9 +73,9 @@ Penjadwalan pembangunan proyek ini disajikan dalam bentuk Gantt Chart .
 ### [1] Stack Technologies:
 
 - Programming language: JavaScript
-- Framework: Hapi
+- Framework: Express JS, React JS
 - Database: MySQL
-- Deployment Environment: Vercel
+- Deployment Environment: AWS
 - Repository: Github
 
 ### [2] Academic Journals:
